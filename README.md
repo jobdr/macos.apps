@@ -34,9 +34,7 @@
 ### Organization
 
 - [Calendar](https://support.apple.com/guide/calendar/welcome/mac)
-- [Contacts](https://support.apple.com/guide/contacts/welcome/mac)
 - [FaceTime](https://support.apple.com/guide/facetime/welcome/mac)
-- [Mail](https://support.apple.com/fr-fr/guide/mail/welcome/mac)
 - [Messages](https://support.apple.com/guide/messages/welcome/mac)
 - [Skype](https://skype.com)
 - [Slack](https://slack.com)
