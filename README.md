@@ -42,7 +42,7 @@
 
 ### Productivity
 
-- [Dashlane](https://dashlane.com)
+- [Bitwarden](https://bitwarden.com)
 - [Keynote](https://apple.com/keynote)
 - [Macdown](https://macdown.uranusjr.com)
 - [Notion](https://notion.so)
