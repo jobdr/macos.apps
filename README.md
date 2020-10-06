@@ -62,6 +62,7 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus)
 - [Kap](https://getkap.co)
 - [Logitech Options](https://logitech.com/product/options)
+- [Lunar](https://lunar.fyi)
 - [Rectangle](https://rectangleapp.com)
 - [Spotify](https://spotify.com)
 - [The Unarchiver](https://theunarchiver.com)
