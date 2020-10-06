@@ -97,7 +97,7 @@ List of extensions I use daily:
 
 - [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
